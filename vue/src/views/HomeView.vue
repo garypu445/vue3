@@ -1,6 +1,7 @@
 <template>
-  <main>
-  </main>
+  <div>
+    主頁
+  </div>
 </template>
 <script setup>
 </script>
